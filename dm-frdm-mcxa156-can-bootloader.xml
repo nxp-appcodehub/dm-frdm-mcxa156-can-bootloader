@@ -1,0 +1,23 @@
+<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" id="dm-frdm-mcxa156-can-bootloader" type="demo" format="projectfile" versionSchema="1.0.0" name="frdm-mcxa156-can-bootloader">
+    <display_title>
+        A simple CAN bootloader project for FRDM-MCXA156
+    </display_title>
+    <overview>
+        <![CDATA[A simple CAN bootloader project for FRDM-MCXA156]]>
+    </overview>
+    <toolchains>
+        <toolchain name="mdk"></toolchain>
+    </toolchains>
+    <families>
+        <family name="mcx"></family>
+    </families>
+    <nxp_compatible_hw>
+        <hw id="FRDM-MCXA156"></hw>
+    </nxp_compatible_hw>
+    <peripherals>
+        <peripheral name="can"></peripheral>
+    </peripherals>
+    <categories>
+        <category name="tools"></category>
+    </categories>
+</data:item>

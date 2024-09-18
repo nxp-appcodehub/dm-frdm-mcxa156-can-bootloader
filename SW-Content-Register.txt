@@ -1,0 +1,29 @@
+NXP Software Content Register
+
+Package:                   dm-frdm-mcxa156-can-bootloader
+
+Version:                   1.0
+Outgoing License:          BSD-3-Clause
+License File:              LICENSE.txt
+Description and comments:  A simple CAN bootloader project for FRDM-MCXA156.
+Release Location:          https://github.com/nxp-appcodehub/dm-frdm-mcxa156-can-bootloader
+Origin:                    NXP (BSD-3-Clause)
+                           CMSIS - ARM (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/
+						   
+
+CMSIS                      Name: CMSIS                                       
+                           Version: 5.8.0                                    
+                           Outgoing License: Apache License 2.0              
+                           License File: 
+							mcux_can_bootloader/CMSIS/LICENSE.txt 
+							mcux_can_bridge/CMSIS/LICENSE.txt                  
+                           Format: source code                               
+                           Description and comments: Vendor-independent hardware          
+                           abstraction layer for microcontrollers that are   
+                           based on Arm Cortex processors, distributed by    
+                           ARM. cores 
+                           Location: 
+							https://github.com/nxp-appcodehub/dm-frdm-mcxa156-can-bootloader/tree/main/mcux_can_bootloader/CMSIS/  
+							https://github.com/nxp-appcodehub/dm-frdm-mcxa156-can-bootloader/tree/main/mcux_can_bridge/CMSIS/  
+                           Origin: ARM (Apache License 2.0)              
+                           https://github.com/ARM-software/CMSIS_5/releases/tag/5.8.0
